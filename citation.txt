@@ -1,0 +1,6 @@
+@inproceedings{REPO-170,
+    author = "Breyer, Michel and Chung, Jen Jen and Ott, Lionel and Roland, Siegwart and Juan, Nieto",
+    booktitle = "Conference on Robot Learning",
+    title = "{Volumetric Grasping Network: Real-time 6 DOF Grasp Detection in Clutter}",
+    year = "2020"
+}
